@@ -32,6 +32,7 @@ def max_num(arr):
     return max_num
     
 print(max_num([1,5,8,22,25]))
+
     
 
     
